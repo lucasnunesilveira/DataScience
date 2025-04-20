@@ -1,0 +1,6 @@
+﻿id;descricao;cidade;uf;latitude;longitude;cnpj;datacadastro;usuariocadastro;responsavel
+1;Filial - 01;São Francisco;BH;0;0;00.000.000/0001-00;24/03/2019;123;x
+2;Filial - 02;Visconde de Mauá;RJ;0;0;00.000.000/0001-00;24/03/2019;123;x
+3;Filial - 03;Gonçalves;MG;0;0;00.000.000/0001-00;24/03/2019;123;x
+4;Filial - 04;Joanópolis;SP;0;0;00.000.000/0001-00;24/03/2019;123;x
+5;Filial - 05;Santo Antônio;SP;0;0;00.000.000/0001-00;24/03/2019;123;x
